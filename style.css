@@ -1,0 +1,42 @@
+/*
+Theme Name:   Storefront Child (Sakkal Agro Mart)
+Author:       Aabhas Dhaubanja
+Template:     storefront
+*/
+
+.site-header {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.storefront-breadcrumb {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+.site-content {
+  margin-top: 20px;
+}
+
+.woocommerce-products-header {
+  padding: 10px !important;
+}
+
+.onsale,
+.wc-block-grid__product-onsale {
+  position: absolute;
+  background-color: #adcb0b !important;
+  border: none;
+  outline: none;
+  color: white;
+  border-radius: 0 !important;
+  left: 0px !important;
+  top: 0px !important;
+  right: auto !important;
+  padding: 10px 20px 10px 20px !important;
+  margin: 0 !important;
+}
+
+.woocommerce-info,
+.woocommerce-message {
+  background-color: #adcb0b !important;
+}
